@@ -25,4 +25,11 @@ Includes tokenization, feature extraction (Bag of Words, TF-IDF), and basic text
 Purpose
 
 This repository serves as a practice space for implementing and refining foundational NLP techniques on a sample dataset.
+
+
+# NLP-based Text Analysis
+
+This is a project for NLP-based text analysis.
+
 ![NLP Repo Graph](https://github.com/prajakta1321/NLP-based-Text-Analysis/blob/main/NLP%20repo%20graph.png)
+
