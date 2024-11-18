@@ -25,3 +25,6 @@ Includes tokenization, feature extraction (Bag of Words, TF-IDF), and basic text
 Purpose
 
 This repository serves as a practice space for implementing and refining foundational NLP techniques on a sample dataset.
+
+
+![Progress on NLP-Based Text Analysis Repository](NLP repo graph.png)
